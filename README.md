@@ -1,10 +1,22 @@
-## Hi there 👋
+![](https://komarev.com/ghpvc/?username=spectrecoder7&color=brightgreen)
+
+
+### Hi there 👋
+
+- 🔭 Web3 Startups
+- 📫 How to reach me: smartpuck111@gmail.com
+- 🧘🏽 Certified Algorithm
+- Open Source Contributor: Ethereum.org
+- 😄 What I do for fun: Err, I read/write Tech Articles, Dota2
+
+
+
 
 <!--
 **spectrecoder7/spectrecoder7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 🎗️ Mentor at: EthMumbai & EthSingapore
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
