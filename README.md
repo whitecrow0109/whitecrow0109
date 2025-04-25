@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=spectrecoder7&color=brightgreen)
+
 
 
 ### Hi there 👋
@@ -14,7 +14,7 @@
 
 <!--
 **spectrecoder7/spectrecoder7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![](https://komarev.com/ghpvc/?username=spectrecoder7&color=brightgreen)
 Here are some ideas to get you started:
 - 🎗️ Mentor at: EthMumbai & EthSingapore
 - 🔭 I’m currently working on ...
