@@ -1,7 +1,7 @@
 
 
 
-### Hi there 👋
+### Code-first dreamer | Blockchain & beyond | White crow in a world of blackbirds
 
 - 🔭 Web3 Startups
 - 📫 How to reach me: greenpeace0318@gmail.com
