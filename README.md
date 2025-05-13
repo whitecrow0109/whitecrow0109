@@ -7,6 +7,8 @@
 - 📫 How to reach me: greenpeace0318@gmail.com
 - 🧘🏽 Certified Algorithm
 - Open Source Contributor: Ethereum.org
+- 👯 I’m looking to collaborate on Solana & Ethereum Engineering space.
+- 💬 Ask me about Ethereum, Solana and other blockchain technologies.
 - 😄 What I do for fun: Err, I read/write Tech Articles, Dota2
 
 
