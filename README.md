@@ -1,4 +1,4 @@
-### 👨🏽‍💻 Code-First Engineer | Blockchain & AI | Bridging Systems & Ideas
+### 👨🏽‍💻 Code-First Engineer | Blockchain & AI | Network | Automation | Bridging Systems & Ideas
 
 Hi, I’m a senior software engineer with hands-on experience across **blockchain**, **AI/ML**, **DevOps**, **QA automation**, and **fullstack development**. I specialize in building scalable systems and secure smart contracts across Ethereum, Solana, and Substrate ecosystems.
 
