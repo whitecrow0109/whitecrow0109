@@ -1,31 +1,53 @@
-### 👨🏽‍💻 Code-First Engineer | Blockchain & AI | Network | Automation | Bridging Systems & Ideas
+### 👨🏽‍💻 Engineer | DevOps | Blockchain | Fullstack | AI Agent Systems
 
-Hi, I’m a senior software engineer with hands-on experience across **blockchain**, **AI/ML**, **DevOps**, **QA automation**, and **fullstack development**. I specialize in building scalable systems and secure smart contracts across Ethereum, Solana, and Substrate ecosystems.
-
----
-
-### 🚀 What I’m working on
-- Infrastructure for Web3 startups (Solidity, Rust, zkVMs, Subgraphs)
-- AI-powered tooling for on-chain sentiment & security analysis
-- DevOps pipelines & QA automation for production-grade reliability
+Welcome! I'm a multi-disciplinary engineer with deep experience across **system administration**, **blockchain protocol development**, **AI agent pipelines**, and **fullstack app engineering**. Whether it's securing infrastructure, building decentralized systems, or designing intelligent apps, I focus on delivering scalable, automated, and secure solutions across every layer.
 
 ---
 
-### 🛠️ Tech I Work With
-- **Blockchain:** Solidity, Rust, Anchor, Substrate, RISC Zero, Foundry
-- **Fullstack:** React, TypeScript, Node.js, GraphQL, PostgreSQL
-- **DevOps & QA:** Docker, GitHub Actions, Playwright, Cypress, CI/CD pipelines
-- **AI/ML:** LLM integrations, sentiment analysis, embeddings, LangChain
+### 🧰 Core Specializations
+
+#### 🛡️ System Administration & DevOps
+- **RMM & MDM:** NinjaOne, SentinelOne, Acronis Cyber Protect
+- **Infrastructure:** Windows/Linux server management, Active Directory, patching, backups
+- **Automation:** PowerShell, Bash, Python — compliance, onboarding, monitoring workflows
+- **DevOps:** Docker, GitHub Actions, CI/CD, AWS, Azure
+
+#### ⛓️ Blockchain & Web3
+- **Smart Contracts:** Solidity, Rust (Solana), Substrate
+- **Tooling:** Foundry, Hardhat, Anchor, The Graph, zkVMs (RISC Zero)
+- **Ecosystems:** Ethereum, Solana, Layer 2s, zk-rollups
+- **Infra:** RPC integration, indexers, subgraphs, cross-chain bridges
+
+#### 🧠 AI & Agentic Workflows
+- **LLM Agents:** OpenAI, LangChain, prompt chaining, embeddings
+- **Applications:** On-chain sentiment analysis, wallet clustering, NLP automation
+- **Infrastructure:** Vector DBs, Retrieval-Augmented Generation (RAG), task routing
+
+#### 💻 Fullstack Development
+- **Frontend:** React, TailwindCSS, Next.js, Web3.js/Ethers
+- **Backend:** Node.js, Express, PostgreSQL, GraphQL, Redis
+- **Testing & QA:** Cypress, Playwright, API test automation
 
 ---
 
-### 🤝 Open to Collaborations
-I’m currently looking to collaborate on deep protocol engineering, AI-native blockchain applications, and open-source tools in the Ethereum and Solana ecosystems.
+### 🚀 Recent Projects
+- ✅ Deployed automation and compliance across 150+ distributed devices (MDM)
+- ⛓️ Built zk-powered bridge monitor using Substrate + RISC Zero
+- 🤖 Designed agent pipelines with memory, retrieval, and secure tool usage
+- 🌐 Developed dApps with wallet auth, real-time data, and smart contract logic
 
 ---
 
+### 🧭 What Drives Me
+- Building secure and automated infrastructure for remote-first companies
+- Pushing the boundary of Web3 and zk-powered applications
+- Architecting systems where AI and decentralized tech converge
+
 ---
 
-🕹️ Fun fact: I unwind with Dota2 or by writing technical articles on blockchain internals and AI workflows.
+📫 **Let’s connect:** I’m always open to collaborating on meaningful engineering challenges—from protocol to product.
 
-
+<!--
+**yourusername/yourusername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
+-->
