@@ -1,4 +1,4 @@
-### 👨🏽‍💻 Engineer | DevOps | Blockchain | Fullstack | AI Agent Systems
+### 👨🏽‍💻 CRM | GIS | AUTOMATION | SYSTEM | DevOps | Blockchain | Fullstack | AI Agent Systems
 
 Welcome! I'm a multi-disciplinary engineer with deep experience across **system administration**, **blockchain protocol development**, **AI agent pipelines**, and **fullstack app engineering**. Whether it's securing infrastructure, building decentralized systems, or designing intelligent apps, I focus on delivering scalable, automated, and secure solutions across every layer.
 
